@@ -4764,7 +4764,7 @@ fieldset:disabled .btn {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  background-color: #faf4f4;
+  background-color: #c9dcfc;
 }
 
 .navbar-brand {
@@ -4794,7 +4794,7 @@ fieldset:disabled .btn {
   -ms-flex-direction: column;
   flex-direction: column;
   padding-left: 0;
-  margin-bottom: 0;
+  
   list-style: none;
 }
 
@@ -5118,7 +5118,7 @@ fieldset:disabled .btn {
 
 .navbar-light .navbar-toggler {
   color: rgba(0, 0, 0, 0.95);
-  border-color: rgba(0, 0, 0, 0.1);
+  
 }
 
 .navbar-light .navbar-toggler-icon {
