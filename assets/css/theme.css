@@ -66,6 +66,25 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 64px;
+  height: 64px;
+  z-index: 1000;
+}
+
+.whatsapp-button img {
+  width: 100%;
+  height: 100%;
+}
+
+
+
+
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
@@ -3494,14 +3513,14 @@ fieldset:disabled .btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #dd4b39;
-  border-color: #dd4b39;
+  background-color: #0ba61b;
+  border-color: #0ba61b;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0ba61b;
-  border-color: #0ba61b;
+  background-color: #148c20;
+  border-color: #148c20;
 }
 
 .btn-check:focus + .btn-primary, .btn-primary:focus {
