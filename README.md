@@ -4,6 +4,6 @@
 Se puede ver en  [GitHub Pages](noa-abraham.github.io).
 
 Desarrollado con HTML, CSS, SCSS, BOOSTRAP Y JAVASCRIPT
+![Captura Graph](https://github.com/user-attachments/assets/10f75295-6fa8-4e87-8f93-e148407e454e)
 
-![Captura de pantalla 2024-10-21 160249](https://github.com/user-attachments/assets/79b026e2-3489-4f92-8339-7ace791e3b1a)
 
